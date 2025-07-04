@@ -1,6 +1,6 @@
 # 🛍️ Mall Customer Segmentation using K-Means Clustering
 
-This project applies **unsupervised learning** techniques to segment customers based on their behavior, specifically their **annual income** and **spending score**. The dataset used is the popular [Mall Customers dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial).
+This project applies **unsupervised learning** techniques to segment customers based on their behavior, specifically their **annual income** and **spending score**. The dataset used is the popular [Mall Customers dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 ---
 
